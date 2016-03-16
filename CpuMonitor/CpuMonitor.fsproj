@@ -55,8 +55,8 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="CpuBand.fs" />
     <Compile Include="Persistence.fs" />
+    <Compile Include="CpuBand.fs" />
     <Compile Include="Monitor.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
